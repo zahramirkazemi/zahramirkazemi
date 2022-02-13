@@ -12,14 +12,14 @@
 <a href="https://linkedin.com/in/zahramirkazemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahramirkazemi" height="30" width="40" /></a>
 <a href="https://instagram.com/zahramirkazemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahramirkazemi" height="30" width="40" /></a>
 </p>
-
-
 <br/>
 <br/>
 <div align="center">
   <a href="https://github.com/zahramirkazemi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahramirkazemi&show_icons=true&locale=en&theme=react" alt="zahramirkazemi" />  
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahramirkazemi&theme=react" alt="zahramirkazemi" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahramirkazemi&show_icons=true&locale=en&theme=react" alt="zahramirkazemi" />
 </div>
-  <br/>
+<br/>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahramirkazemi&show_icons=true&locale=en&theme=react" alt="zahramirkazemi" />
+</div>
