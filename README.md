@@ -18,3 +18,8 @@
 <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahramirkazemi&show_icons=true&locale=en&theme=react" alt="zahramirkazemi" />
 </div>
+<br/>
+<div align="left">
+  <img align="left" src="https://leetcode.card.workers.dev/?username=zahramirkazemi&theme=nord" alt="zahramirkazemi" />
+</div>
+
