@@ -1,5 +1,4 @@
 <h1 align="left">Hi. I'm zahra mirkazemi</h1>
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif"/>
 <h3 align="left">A front-end developer, who loves to solve problems and learn new technologies</h4>
 
 <h3 align="left">Languages and Tools:</h3>
